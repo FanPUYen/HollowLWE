@@ -1,2 +1,0 @@
-# HollowLWE
-HollowLWE optimization
